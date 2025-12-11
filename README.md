@@ -1,17 +1,24 @@
-## Workflow Analysis
+## Compounding Workflow Efficiency Analysis (Pharmacy Operations Project)
 This is my own excel project on analyzing workflow for a compounding pharmacy
 
 I created a dynamic dashboard visualization in Excel using Pivot Tables, slicers, and interactive charts to optimize our compounding pharmacy workflow. The data was manually input from the compounding calendar, which we used to schedule our workflow with patients. This allowed for better trend analysis and real-time decision-making to improve efficiency. Additionally, I utilized Power BI to enhance data visualization, providing clearer insights for decision-making
 
+Tools: Excel, Data Cleaning, Trend Analysis, Capacity Planning
 
-## Technologies
+## Key Highlights
+- Identified workflow bottlenecks by analyzing daily totals, revealing that single-hazard creams and multi-hazard creams consistently overwhelmed the schedule—often filling up two weeks ahead of other compound types.
+- Mapped production capacity across daily and weekly totals to understand how much volume the team could realistically handle within an 8-hour shift.
+- Exposed inefficiencies in scheduling, showing that certain compound categories created traffic jams while others had available capacity.
+- Created the foundation for scalable scheduling by structuring the data into a format usable for forecasting, resource allocation, and future integration into a digital scheduling tool.
 
-## Features
+## What I Learned
+- How to capture and structure operational pharmacy data to support decision-making
+- Identifying and quantifying bottlenecks using Excel-based analysis
+- Recognizing how compound categories differ in prep time, hazard level, and scheduling load
+- Translating real-world workflow patterns into actionable operational insights
 
-
-## Operational challenge Question
-
-
-## What I learned
-
-## How it can be Improved
+Impact & Value
+- This analysis provided to my pharmacy manager and director with clear visibility into daily production constraints and highlighted where capacity must be expanded before the pharmacy can scale. The project also lays the groundwork for:
+- A capacity-based scheduling model
+- Better distribution of workload among compound types
+- An eventual inventory + compounding calendar web app you plan to build
