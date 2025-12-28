@@ -15,4 +15,3 @@ Impact & Value
 - This analysis provided to my pharmacy manager and director with clear visibility into daily production constraints and highlighted where capacity must be expanded before the pharmacy can scale. The project also lays the groundwork for:
 - A capacity-based scheduling model
 - Better distribution of workload among compound types
-- An eventual inventory + compounding calendar web app you plan to build
