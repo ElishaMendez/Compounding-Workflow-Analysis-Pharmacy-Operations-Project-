@@ -22,7 +22,7 @@ Impact & Value
 
 
 ## Executive Summary
-<img src="images/Excel Dashboard(Dark) (1).JPG" alt="Alt text for the image" width="100" height="100">
+<img src="images/Excel Dashboard(Dark) (1).JPG" alt="Alt text for the image" width="500" height="500">
 ## Insights Deep Dive
 
 ## Recommendations
