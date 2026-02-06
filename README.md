@@ -23,8 +23,8 @@ Impact & Value
 
 ## Executive Summary
 <div align="center">
-  <img src="images/Excel Dashboard(Dark).JPG" alt="Description of image 1" width="400"/>
-  <img src="images/PowerBi Version2.JPG" alt="Description of image 2" width="400"/>
+  <img src="images/Excel Dashboard(Dark).JPG" alt="Description of image 1" height="600" width="450"/>
+  <img src="images/PowerBi Version2.JPG" alt="Description of image 2" height="600" width="450"/>
 </div>
 
 ## Insights Deep Dive
