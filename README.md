@@ -22,7 +22,7 @@ Impact & Value
 
 
 ## Executive Summary
-![Alt text](image_url_or_path)
+![Alt text](images/Excel Dashboard(Dark) (1).JPG)
 ## Insights Deep Dive
 
 ## Recommendations
