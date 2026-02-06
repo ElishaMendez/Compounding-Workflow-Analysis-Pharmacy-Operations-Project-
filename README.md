@@ -22,7 +22,7 @@ Impact & Value
 
 
 ## Executive Summary
-![Alt text]([images/Excel Dashboard(Dark) (1).JPG](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/images/Excel%20Dashboard(Dark)%20(1).JPG))
+!([image_url](https://raw.githubusercontent.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/refs/heads/main/images/Excel%20Dashboard(Dark)%20(1).JPG))
 ## Insights Deep Dive
 
 ## Recommendations
