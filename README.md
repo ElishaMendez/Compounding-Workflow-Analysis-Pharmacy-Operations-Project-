@@ -10,8 +10,7 @@ This project analyzes workflow data created through this cross-team interaction 
 - Evaluating how collaboration between the compounding team and shipping schedule team affects workflow balance
 - Using data to recommend adjustments in production sequencing to reduce queue buildup and improve operational flow
 
-<a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a>
-
+<p>An interactive PowerBI dashboard can be downloaded <a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a></p>
 <p> An interactive dashboard <a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a></p>
 
 ## Data Structure Overview
