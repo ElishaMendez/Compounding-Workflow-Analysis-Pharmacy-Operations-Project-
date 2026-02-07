@@ -1,21 +1,11 @@
-## Compounding Workflow Efficiency Analysis (Pharmacy Operations Project)
-This is my own excel project on analyzing workflow for a compounding pharmacy
+### Compounding Workflow Efficiency Analysis (Pharmacy Operations Project)
 
-I created a dynamic dashboard visualization in Excel using Pivot Tables, slicers, and interactive charts to optimize our compounding pharmacy workflow. The data was manually input from the compounding calendar, which we used to schedule our workflow with patients. This allowed for better trend analysis and real-time decision-making to improve efficiency. Additionally, I utilized Power BI to enhance data visualization, providing clearer insights for decision-making
+## Background and Overview
+Compounding pharmacy workflows are shaped by close coordination between multiple teams, primarily the compounding team responsible for production and the shipping schedule team responsible for coordinating delivery timelines. In addition to scheduling, the shipping team managed inbound and outbound calls related to order confirmations, delivery changes, and time-sensitive requests, which directly influenced daily workflow priorities.
 
-Tools: Excel, Data Cleaning, Trend Analysis, Capacity Planning
+This project analyzes workflow data created through this cross-team interaction to understand how scheduling decisions, communication volume, and production capacity align in practice. Using historical compounding and scheduling data, the analysis identifies patterns, constraints, and opportunities to improve workflow balance and create more predictable daily operations.
 
-## What I Learned
-- How to capture and structure operational pharmacy data to support decision-making
-- Identifying and quantifying bottlenecks using Excel-based analysis
-- Recognizing how compound categories differ in prep time, hazard level, and scheduling load
-- Translating real-world workflow patterns into actionable operational insights
-
-## Impact & Value
-- This analysis provided to my pharmacy manager and director with clear visibility into daily production constraints and highlighted where capacity must be expanded before the pharmacy can scale. The project also lays the groundwork for:
-- A capacity-based scheduling model
-- Better distribution of workload among compound types
-- Identified phone call management as a critical bottleneck, consuming an estimated 6-8 hours of daily production capacity and delaying next-day scheduling by an average of 1-2 hours
+Tools: Excel, Power Bi, Compounding Calendar, Data Cleaning, Trend Analysis, Capacity Planning
 
 ## Data Structure Overview
 <div align="center">
@@ -26,9 +16,11 @@ Tools: Excel, Data Cleaning, Trend Analysis, Capacity Planning
 - Update Frequency: Daily entries logged in real-time as compounds were scheduled and completed
 - Data Validation: Cross-referenced with shipping logs and batch records to ensure accuracy
 
-### Executive Summary
+## Executive Summary
 ## Overview of Findings
-After peaking into "Monday bottleneck, Friday gap" pattern where Monday hits 150% capacity from cold-chain shipping limits and bulk prep scheduling, while Friday drops to 45% utilization. Phone calls take 6-8 hours daily, and technicians assigned by compound type can't flex during spikes. My analysis led to discussions about shifting toward single-ingredient creams and bulk suspensions for efficiency. When hazardous suspensions spiked, we reallocated time from bulk prep to accommodate them.
+This project analyzed daily production patterns to create a more balanced workflow throughout the day. By examining batch volumes, queue buildup, and production timing, it became clear that certain products, including single ingredient creams and multi ingredient creams, were creating bottlenecks that caused the compounding calendar to fill up two weeks ahead of other products.
+
+To address this, production output was adjusted by pushing and pulling higher volume products versus lower volume products throughout the day. This helped reduce bottlenecks, smooth the workflow, and improve overall efficiency. The analysis demonstrates how production-level data can guide better scheduling decisions and maintain a steadier daily operation without requiring additional resources.
 
 Below is the overview page from my initial Excel dashboard & Power Bi dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded <a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a>
 
