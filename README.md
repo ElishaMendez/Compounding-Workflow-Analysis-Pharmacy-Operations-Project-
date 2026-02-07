@@ -27,7 +27,7 @@ Tools: Excel, Data Cleaning, Trend Analysis, Capacity Planning
 ## Overview of Findings
 Data shows a "Monday bottleneck, Friday gap" pattern where Monday hits 150% capacity from cold-chain shipping limits and bulk prep scheduling, while Friday drops to 45% utilization. Phone calls take 6-8 hours daily, and technicians assigned by compound type can't flex during spikes. My analysis led to discussions about shifting toward single-ingredient creams and bulk suspensions for efficiency. When hazardous suspensions spiked, we reallocated time from bulk prep to accommodate them.
 
-Below is the overview page from my initial Excel dashboard & Power Bi dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded [Here]([https://example.com/your-link](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx])
+Below is the overview page from my initial Excel dashboard & Power Bi dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded [[https://example.com/your-link](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx])](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx])
 
 <div align="center">
   <img src="images/Excel Dashboard(Dark).JPG" alt="Description of image 1" height="900" width="500"/>
