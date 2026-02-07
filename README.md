@@ -11,17 +11,24 @@ Tools: Excel, Data Cleaning, Trend Analysis, Capacity Planning
 - Recognizing how compound categories differ in prep time, hazard level, and scheduling load
 - Translating real-world workflow patterns into actionable operational insights
 
-Impact & Value
+## Impact & Value
 - This analysis provided to my pharmacy manager and director with clear visibility into daily production constraints and highlighted where capacity must be expanded before the pharmacy can scale. The project also lays the groundwork for:
 - A capacity-based scheduling model
 - Better distribution of workload among compound types
+- Identified phone call management as a critical bottleneck, consuming an estimated 6-8 hours of daily production capacity and delaying next-day scheduling by an average of 1-2 hours
 
 ## Data Structure Overview
--
+- Primary Source: Manual extraction from the pharmacy's compounding calendar system
+- Collection Period: 2 months of operational data 
+- Update Frequency: Daily entries logged in real-time as compounds were scheduled and completed
+- Data Validation: Cross-referenced with shipping logs and batch records to ensure accuracy
 
+### Executive Summary
+## Overview of Findings
+Data shows a "Monday bottleneck, Friday gap" pattern where Monday hits 150% capacity from cold-chain shipping limits and bulk prep scheduling, while Friday drops to 45% utilization. Phone calls take 6-8 hours daily, and technicians assigned by compound type can't flex during spikes. My analysis led to discussions about shifting toward single-ingredient creams and bulk suspensions for efficiency. When hazardous suspensions spiked, we reallocated time from bulk prep to accommodate them.
 
+Below is the overview page from my initial Excel dashboard & Power Bi dashboard. More examples are included throughout the report. The entire interactive dashboard can be downloaded [Here]([https://example.com/your-link](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx))
 
-## Executive Summary
 <div align="center">
   <img src="images/Excel Dashboard(Dark).JPG" alt="Description of image 1" height="900" width="500"/>
   <img src="images/PowerBi Version2.JPG" alt="Description of image 2" height="900" width="500"/>
