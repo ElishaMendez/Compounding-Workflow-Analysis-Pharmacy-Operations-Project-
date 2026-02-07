@@ -28,10 +28,10 @@ Impact & Value
 </div>
 
 ## Insights Deep Dive
-- Front-Loaded Production Cycles: Our Production Trend shows a heavy peak on Mondays with a steady decline toward Friday. This isn't just a random trend; it’s driven by our shipping policy. Since we can't ship cold products on Fridays (to avoid them sitting in a warehouse over the weekend), we intentionally front-load our schedule to ensure all temperature-sensitive orders out the door by Thursday.
-- Bulk Compounding Strategy: The high volume on Mondays and Tuesdays also reflects our "Bulk Prep" strategy. We prioritize compounding large batches of Bulk Capsules and Creams early in the week to facilitate the individual prescription volume we expect over the following days.
+- Front-Loaded Production Cycles: Our Production Trend shows a heavy peak on Mondays with a steady decline toward Friday. This isn't just a random trend; it’s driven by our shipping policy. Since we can't ship cold products on Fridays (to help preserve the expiration date of medications), we intentionally front-load our schedule to ensure all temperature-sensitive orders out the door each day by 4:00p.m. and no shipping on cold chain items on Friday.
+- Bulk Compounding Strategy: The high volume phone calls on Mondays and Tuesdays also reflects our "Bulk Prep" strategy. We prioritize compounding large batches of Bulk Capsules and Creams early in the week to facilitate the individual prescription volume we expect over the following days. 
 - The Friday "Drop-Off": The sharp dip on Fridays in the dashboard highlights a shift in focus. With cold-shipping off the table, Friday becomes more of a "cleaning and prep" day for the following week rather than a high-output production day.
-- Hazardous Mix Complexity: Even with the front-loaded schedule, our HZ vs. Non-HZ split shows that we are constantly juggling safety protocols. The data suggests that on our high-volume Mondays, we are likely performing more PPE changes and hood cleanings than on any other day.
+- The "Phone Call Tug-of-War": One of the biggest challenges identified is Phone Call Complexity. There is a constant struggle to balance inbound patient inquiries with the outbound calls needed to "fill" the compounding calendar. When the team is tied up on the phones, it creates a delay in finalizing the production schedule and getting prepped for the next day, which causes a ripple effect on daily productivity.
 
 ## Recommendations
 - Optimize the "Friday Gap": Since Friday is our lowest production day due to shipping constraints, we should officially designate it as "Deep Clean & Inventory Day." Using this low-volume window for maintenance ensures we don't have to stop production during the high-volume Monday rush.
