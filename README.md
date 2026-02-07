@@ -1,9 +1,14 @@
 # Compounding Workflow Analysis (Pharmacy Operations Project)
 
 ## Background and Overview
-Compounding pharmacy workflows are shaped by close coordination between multiple teams, primarily the compounding team responsible for production and the shipping schedule team responsible for coordinating delivery timelines. In addition to scheduling, the shipping team managed inbound and outbound calls related to order confirmations, delivery changes, and time-sensitive requests, which directly influenced daily workflow priorities.
+Compounding pharmacy workflows are shaped by close coordination between multiple teams, primarily the compounding team responsible for production and the shipping schedule team responsible for managing delivery timelines. The shipping team also handled inbound and outbound calls related to order confirmations, delivery changes, and time-sensitive requests, which directly influenced daily workflow priorities.
 
-This project analyzes workflow data created through this cross-team interaction to understand how scheduling decisions, communication volume, and production capacity align in practice. Using historical compounding and scheduling data, the analysis identifies patterns, constraints, and opportunities to improve workflow balance and create more predictable daily operations.
+This project analyzes workflow data created through this cross-team interaction to understand how scheduling decisions, communication volume, and production capacity align in practice. The analysis focuses on:
+
+- Examining how batch scheduling and production timing impact daily workflow efficiency
+- Identifying bottlenecks in high-volume products such as single ingredient and multi ingredient creams
+- Evaluating how collaboration between the compounding team and shipping schedule team affects workflow balance
+- Using data to recommend adjustments in production sequencing to reduce queue buildup and improve operational flow
 
 Tools: Excel, Power Bi, Compounding Calendar, Data Cleaning, Trend Analysis, Capacity Planning
 
