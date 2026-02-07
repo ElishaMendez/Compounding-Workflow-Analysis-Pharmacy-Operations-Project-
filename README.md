@@ -28,5 +28,13 @@ Impact & Value
 </div>
 
 ## Insights Deep Dive
+- Front-Loaded Production Cycles: Our Production Trend shows a heavy peak on Mondays with a steady decline toward Friday. This isn't just a random trend; it’s driven by our shipping policy. Since we can't ship cold products on Fridays (to avoid them sitting in a warehouse over the weekend), we intentionally front-load our schedule to ensure all temperature-sensitive orders out the door by Thursday.
+- Bulk Compounding Strategy: The high volume on Mondays and Tuesdays also reflects our "Bulk Prep" strategy. We prioritize compounding large batches of Bulk Capsules and Creams early in the week to facilitate the individual prescription volume we expect over the following days.
+- The Friday "Drop-Off": The sharp dip on Fridays in the dashboard highlights a shift in focus. With cold-shipping off the table, Friday becomes more of a "cleaning and prep" day for the following week rather than a high-output production day.
+- Hazardous Mix Complexity: Even with the front-loaded schedule, our HZ vs. Non-HZ split shows that we are constantly juggling safety protocols. The data suggests that on our high-volume Mondays, we are likely performing more PPE changes and hood cleanings than on any other day.
 
 ## Recommendations
+- Optimize the "Friday Gap": Since Friday is our lowest production day due to shipping constraints, we should officially designate it as "Deep Clean & Inventory Day." Using this low-volume window for maintenance ensures we don't have to stop production during the high-volume Monday rush.
+- Pre-Batching Non-Cold Items: To further ease the Monday peak, we could look into identifying non-cold items that have a long shelf life and moving their production specifically to Thursdays or Fridays. This would "shave the peak" off Monday and create a more balanced workflow.
+- Hazardous Block Scheduling: On Mondays, when volume is at its highest, we should implement strict "Hazardous Only" time blocks. This prevents technicians from having to switch back and forth between HZ and Non-HZ compounds during our busiest hours, saving precious time on PPE transitions.
+- Supplies Readiness Audit: Since Monday is our "Highest Production Day," we should implement a Friday afternoon checklist to ensure all bulk chemicals, capsule shells, and cream bases are fully stocked and staged. This prevents "out-of-stock" delays when we are at our maximum capacity.
