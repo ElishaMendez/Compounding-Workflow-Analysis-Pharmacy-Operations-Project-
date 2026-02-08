@@ -15,7 +15,7 @@ This project analyzes workflow data created through this cross-team interaction 
 <p>Excel Dashboard and data sheet <a href="https://raw.githubusercontent.com/ElishaMendez/Compounding-Workflow-Analysis-Pharmacy-Operations-Project-/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx" download>here.</a></p>
 
 # Data Structure Overview
-- Primary Source: Manual extraction from the pharmacy's compounding calendar system
+- **Primary Source:** Manual extraction from the pharmacy's compounding calendar system
 - Collection Period: 2 months of operational data 
 - Update Frequency: Daily entries logged in real-time as compounds were scheduled and completed
 - Data Validation: Cross-referenced with shipping logs and batch records to ensure accuracy
