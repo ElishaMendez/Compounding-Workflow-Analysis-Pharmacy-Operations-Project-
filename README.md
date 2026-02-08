@@ -1,6 +1,6 @@
 # Compounding Workflow Analysis (Pharmacy Operations Project)
 
-## Background and Overview
+# Background and Overview
 Compounding pharmacy workflows are shaped by close coordination between multiple teams, primarily the compounding team responsible for production and the shipping schedule team responsible for managing delivery timelines. The shipping team also handled inbound and outbound calls related to order confirmations, delivery changes, and time-sensitive requests, which directly influenced daily workflow priorities.
 
 This project analyzes workflow data created through this cross-team interaction to understand how scheduling decisions, communication volume, and production capacity align in practice. The analysis focuses on:
@@ -13,7 +13,7 @@ This project analyzes workflow data created through this cross-team interaction 
 <p>An interactive PowerBI dashboard can be downloaded <a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a></p>
 <p> Link Title <a href="[path/to/file.xlsx](https://github.com/ElishaMendez/Compounding-Pharmacy-Workflow-Analysis-Project/blob/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx)" download>here.</a></p>
 
-## Data Structure Overview
+# Data Structure Overview
 - Primary Source: Manual extraction from the pharmacy's compounding calendar system
 - Collection Period: 2 months of operational data 
 - Update Frequency: Daily entries logged in real-time as compounds were scheduled and completed
