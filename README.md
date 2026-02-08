@@ -33,11 +33,15 @@ Below is the overview page from my initial Excel dashboard & Power Bi dashboard.
   <img src="images/PowerBi Version2.JPG" alt="Description of image 2" height="900" width="480"/>
 </div>
 
-## Insights Deep Dive
-- Front-Loaded Production Cycles: Our Production Trend shows a heavy peak on Mondays with a steady decline toward Friday. This isn't just a random trend; it’s driven by our shipping policy. Since we can't ship cold products on Fridays (to help preserve the expiration date of medications), we intentionally front-load our schedule to ensure all temperature-sensitive orders out the door each day by 4:00p.m. and no shipping on cold chain items on Friday.
-- Bulk Compounding Strategy: The high volume phone calls on Mondays and Tuesdays also reflects our "Bulk Prep" strategy. We prioritize compounding large batches of Bulk Capsules and Creams early in the week to facilitate the individual prescription volume we expect over the following days. 
-- The Friday "Drop-Off": The sharp dip on Fridays in the dashboard highlights a shift in focus. With cold-shipping off the table, Friday becomes more of a "cleaning and prep" day for the following week rather than a high-output production day.
-- The "Phone Call Tug-of-War": One of the biggest challenges identified is Phone Call Complexity. There is a constant struggle to balance inbound patient inquiries with the outbound calls needed to "fill" the compounding calendar. When the team is tied up on the phones, it creates a delay in finalizing the production schedule and getting prepped for the next day, which causes a ripple effect on daily productivity.
+# Insights Deep Dive
+- Front-Loaded Production Cycles
+Production peaks on Mondays and steadily declines through Friday due to cold-chain shipping constraints. Since temperature-sensitive medications cannot ship on Fridays, production is intentionally front-loaded to ensure all orders are completed and shipped by 4:00 p.m. earlier in the week. This policy directly drives the observed weekly output pattern.
+- Bulk Compounding Strategy
+Higher phone volume on Mondays and Tuesdays aligns with the bulk compounding strategy. Large batches of bulk capsules and creams are prepared early to support expected prescription demand later in the week. While efficient, this approach increases early-week coordination and scheduling pressure.
+- The Friday “Drop-Off”
+The sharp decline in Friday production reflects a strategic shift rather than reduced efficiency. With cold shipping unavailable, Fridays are primarily dedicated to cleaning, inventory management, and preparation for the upcoming week. This reallocation supports smoother operations on higher-volume days.
+- The Phone Call “Tug-of-War”
+Phone call complexity creates a constant trade-off between patient support and production planning. Time spent handling inbound calls delays outbound scheduling calls needed to finalize the compounding calendar. These delays compound into downstream impacts on daily productivity and workflow readiness.
 
 ## Recommendations
 - Optimize the "Friday Gap": Since Friday is our lowest production day due to shipping constraints, we should officially designate it as "Deep Clean & Inventory Day." Using this low-volume window for maintenance ensures we don't have to stop production during the high-volume Monday rush.
