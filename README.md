@@ -20,7 +20,7 @@ This project analyzes workflow data created through this cross-team interaction 
 - Data Validation: Cross-referenced with shipping logs and batch records to ensure accuracy
 
 ## Executive Summary
-## Overview of Findings
+# Overview of Findings
 This project analyzed daily production patterns to create a more balanced workflow throughout the day. By examining batch volumes, queue buildup, and production timing, it became clear that certain products, including single ingredient creams and multi ingredient creams, were creating bottlenecks that caused the compounding calendar to fill up two weeks ahead of other products.
 
 To address this, production output was adjusted by pushing and pulling higher volume products versus lower volume products throughout the day. This helped reduce bottlenecks, smooth the workflow, and improve overall efficiency. The analysis demonstrates how production-level data can guide better scheduling decisions and maintain a steadier daily operation without requiring additional resources.
