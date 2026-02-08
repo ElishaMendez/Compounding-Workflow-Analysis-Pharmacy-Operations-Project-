@@ -35,13 +35,11 @@ Below is the overview page from my initial Excel dashboard & Power Bi dashboard.
 
 # Insights Deep Dive
 - Front-Loaded Production Cycles
-Production peaks on Mondays and steadily declines through Friday due to cold-chain shipping constraints. Since temperature-sensitive medications cannot ship on Fridays, production is intentionally front-loaded to ensure all orders are completed and shipped by 4:00 p.m. earlier in the week. This policy directly drives the observed weekly output pattern.
-- Bulk Compounding Strategy
-Higher phone volume on Mondays and Tuesdays aligns with the bulk compounding strategy. Large batches of bulk capsules and creams are prepared early to support expected prescription demand later in the week. While efficient, this approach increases early-week coordination and scheduling pressure.
-- The Friday “Drop-Off”
-The sharp decline in Friday production reflects a strategic shift rather than reduced efficiency. With cold shipping unavailable, Fridays are primarily dedicated to cleaning, inventory management, and preparation for the upcoming week. This reallocation supports smoother operations on higher-volume days.
+Production consistently peaks on Mondays and declines through Friday due to cold-chain shipping constraints. Since temperature-sensitive medications cannot ship on Fridays, production is intentionally front-loaded to ensure all cold-chain orders are completed and shipped by 4:00 p.m. earlier in the week. This policy directly drives the weekly output trend.
+- Bulk Compounding and Batching Strategy
+Bulk compounding is strategically batched on Fridays when cold-chain shipping is unavailable, allowing the team to build inventory for bulk capsules and creams ahead of the following week. This allows time allocated to batching, cleaning, inventory checks, and preparation. This intentional reallocation improves early-week production efficiency and reduces pressure on high-volume days.
 - The Phone Call “Tug-of-War”
-Phone call complexity creates a constant trade-off between patient support and production planning. Time spent handling inbound calls delays outbound scheduling calls needed to finalize the compounding calendar. These delays compound into downstream impacts on daily productivity and workflow readiness.
+Patient outreach occurs primarily between 9:00 a.m. and 1:00 p.m., competing directly with production scheduling activities. High inbound call volume delays outbound calls needed to finalize the compounding calendar. These delays create downstream impacts on daily readiness and overall productivity.
 
 ## Recommendations
 - Optimize the "Friday Gap": Since Friday is our lowest production day due to shipping constraints, we should officially designate it as "Deep Clean & Inventory Day." Using this low-volume window for maintenance ensures we don't have to stop production during the high-volume Monday rush.
