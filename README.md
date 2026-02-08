@@ -12,7 +12,7 @@ This project analyzes workflow data created through this cross-team interaction 
 
 <p>An interactive PowerBI dashboard can be downloaded <a href="https://raw.githubusercontent.com/ElishaMendez/Compounding-Workflow-Analysis-Pharmacy-Operations-Project-/main/Estimated%20Totals%20for%20Compounding%202025-2026.pbix" download>here.</a></p>
 
-<p>Excel Dashboard and data sheet<a href="https://raw.githubusercontent.com/ElishaMendez/Compounding-Workflow-Analysis-Pharmacy-Operations-Project-/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx" download>Download Excel File</a></p>
+<p>Excel Dashboard and data sheet<a href="https://raw.githubusercontent.com/ElishaMendez/Compounding-Workflow-Analysis-Pharmacy-Operations-Project-/main/Estimated%20Totals%20for%20Compounding%202025-2026.xlsx" download>here.</a></p>
 
 # Data Structure Overview
 - Primary Source: Manual extraction from the pharmacy's compounding calendar system
