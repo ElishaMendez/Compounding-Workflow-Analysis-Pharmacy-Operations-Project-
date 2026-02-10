@@ -1,4 +1,4 @@
-# Compounding Workflow Analysis (Pharmacy Operations Project)
+# Compounding-Workflow-Analysis-Project
 
 # Background and Overview
 Compounding pharmacy workflows are shaped by close coordination between multiple teams, primarily the compounding team responsible for production and the shipping schedule team responsible for managing delivery timelines. The shipping team also handled inbound and outbound calls related to order confirmations, delivery changes, and time-sensitive requests, which directly influenced daily workflow priorities.
